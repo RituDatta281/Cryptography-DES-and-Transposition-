@@ -1,0 +1,8 @@
+NMOLBCTFIPOTONBMTTTTEARMODHETLDRNOIVTSDOEIANWSIKEYNNIAMXDINAACFIXARWSSLAHEWACRAEWREYSWLOIKUVEHSITVXCWHULESAGTTWOEOILNANESEWSWEAKIIILNSRETHTN
+length of key for this text is: 5 
+The sequence of the key is :3 4 0 2 1 
+decoded text is :
+sendtwomilliondollarinbankaccountfivefivesixthepasswordistwotwosevensixablackmanwithwhitesuitwilltakenecessaryarrangementtowithdrawthemoneyx
+Encrypted text :
+nmolbctfipotonbmttttearmodhetldrnoivtsdoeianwsikeynniamxdinaacfixarwsslahewacraewreyswloikuvehsitvxcwhulesagttwoeoilnanesewsweakiiilnsrethtn  
+Accuracy :100%
